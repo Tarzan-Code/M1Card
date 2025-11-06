@@ -1,7 +1,7 @@
 研究M1卡数据时候经常要查看dump文件，并与TXT进行互相转换。我尝试了找了几款工具，要么带病毒，要么莫名其妙地转换失败，也没有帮助文件，根据我的需求开发了两款小工具：
 
 1、TXT和Dump互转工具。
-Txt2Dump5.05.zip 更新亮点：关联.mfd成为系统查看默认器，增加了鼠标右键复制...
+Txt2Dump5.11.zip 更新亮点：支持（Mifare Classic 1K、2K、4K、1K_plus_SAK88）...
 
 2、数据对比工具。
 DiffViewer2.9.zip 更新亮点：支持（Mifare Classic 1K、2K、4K、1K_plus_SAK88）；
